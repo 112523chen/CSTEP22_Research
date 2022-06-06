@@ -1,0 +1,6 @@
+user_id,occurred_at,event_type,event_name,location,device
+6991,41799.76868,engagement,home_page,United States,iphone 5
+18851,41880.55461,signup_flow,enter_info,Russia,asus chromebook
+14998,41821.53329,engagement,login,France,hp pavilion desktop
+8186,41782.44741,engagement,home_page,Italy,macbook pro
+9626,41851.71891,engagement,login,Russia,nexus 7
