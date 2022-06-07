@@ -1,0 +1,6 @@
+id,first_name,last_name,age,sex,employee_title,department,salary,target,bonus,email,city,address,manager_id
+5,Max,George,1900-01-25 0:00:00,M,Sales,Sales,1300,200,150,Max@company.com,California,2638 Richards Avenue,1899-12-31 0:00:00
+13,Katty,Bond,1900-02-24 0:00:00,F,Manager,Management,150000,0,300,Katty@company.com,Arizona,,1899-12-31 0:00:00
+11,Richerd,Gear,1900-02-25 0:00:00,M,Manager,Management,250000,0,300,Richerd@company.com,Alabama,,1899-12-31 0:00:00
+10,Jennifer,Dion,1900-02-02 0:00:00,F,Sales,Sales,1000,200,150,Jennifer@company.com,Alabama,,1900-01-12 0:00:00
+19,George,Joe,1900-02-18 0:00:00,M,Manager,Management,100000,0,300,George@company.com,Florida,1003 Wyatt Street,1899-12-31 0:00:00
