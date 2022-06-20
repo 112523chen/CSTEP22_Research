@@ -2,10 +2,14 @@
 
 ## Setup
 
-**Click On This Link for The [Collab Notebook](https://github.com/112523chenCSTEP22_Research)**
+---
 
-**OR**
+Click on this link for the **[Collab Notebook](https://github.com/112523chenCSTEP22_Research)**
 
-**Download Locally**
+OR
+
+Download locally 
+
+<br>
 
 ***NOTICE:*** **To ensure notebook and files work please download the entire repository**
