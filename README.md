@@ -2,8 +2,10 @@
 
 ## Setup
 
-***NOTICE:*** **To ensure notebook and files work please download the entire repository**
+**Click On This Link for The [Collab Notebook](https://github.com/112523chenCSTEP22_Research)**
 
-1. Setup [Streamlit](https://docs.streamlit.io/library/get-started/installation#install-streamlit-on-macoslinux) on local machine
-2. Download repository
-3. Run ```main.py``` with Streamlit with the line ``` streamlit run main.py ```
+**OR**
+
+**Download Locally**
+
+***NOTICE:*** **To ensure notebook and files work please download the entire repository**
