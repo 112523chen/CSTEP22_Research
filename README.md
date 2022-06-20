@@ -4,12 +4,12 @@
 
 ---
 
-Click on this link for the **[Collab Notebook](https://github.com/112523chenCSTEP22_Research)**
+Click on this link for the **[Colab Notebook](https://github.com/112523chenCSTEP22_Research)**
 
 OR
 
-Download locally 
+Download locally
 
-<br>
+&nbsp;
 
 ***NOTICE:*** **To ensure notebook and files work please download the entire repository**
