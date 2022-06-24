@@ -2,7 +2,7 @@
 
 ## Setup
 
-Click on this link for the **[Colab Notebook](https://github.com/112523chenCSTEP22_Research)** *Not Live Yet*
+Click on this link for the **[Colab Notebook](https://colab.research.google.com/drive/1dwOp48tQS4tRAGY6Z-FaoCGbZbg4TkRS?usp=sharing)**
 
 OR
 
