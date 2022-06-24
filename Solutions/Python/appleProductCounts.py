@@ -6,4 +6,5 @@ d = ["ipad air", "iphone 5s", "macbook pro"]
 df = df[df.device.isin(d)]
 df = df.groupby(["device", "language"])["user_id"].count()
 df.sort_values(ascending=False, inplace=True)
-df.reset_index()
+df = df.to_frame()
+df.reset_index(inplace=True)
