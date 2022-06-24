@@ -9,6 +9,15 @@ def getDatasetAsDataFrame(fileName):
     # print(os.getcwd())
     return df
 
+def getFinalResult(question):
+    os.chdir("./Results")
+    print(os.getcwd())
+    f = f"{question}.pkl"
+    df = pd.read_pickle(f)
+    os.chdir("../")
+    print(os.getcwd())
+    return df
+
 def getPythonSolution(question):
     os.chdir("./Solutions/Python")
     f = f"{question}.py"
